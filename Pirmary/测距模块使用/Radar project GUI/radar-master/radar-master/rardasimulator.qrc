@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resfile/exit.png</file>
+        <file>resfile/SourceHanSansCN-Bold.otf</file>
+    </qresource>
+</RCC>
