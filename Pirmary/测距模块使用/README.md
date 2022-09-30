@@ -1,2 +1,2 @@
-# Excellent Growth Program
- UESTC
+# 测距模块使用
+ 模块搭配串口上位机进行测速测距等
