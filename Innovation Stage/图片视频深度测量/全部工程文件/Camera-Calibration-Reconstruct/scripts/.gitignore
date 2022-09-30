@@ -1,0 +1,31 @@
+# git rm -r --cached .
+# git add .
+# git commit -m 'update .gitignore'
+
+./work_space
+.polyaxon/
+models/segformer_models/pretrained
+voc_val_seg/
+
+__pycache__/
+*.py[cod]
+.idea/
+docker/codes/
+.polyaxon
+build/
+.ipynb_checkpoints/
+.DS_Store
+pip
+eth.yaml
+
+*.whl
+*.so
+
+# Cython generation files
+*/cpu_nms.c
+*/gpu_nms.cpp
+
+output/
+work_space/
+tools/work_space/
+args_config.yaml
